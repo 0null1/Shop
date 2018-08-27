@@ -147,6 +147,7 @@
         <module>
             dancer-client-80
         </module>
+        <module>pay</module>
     </modules>
 
 </project>

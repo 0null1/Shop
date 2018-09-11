@@ -6,8 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="common" />
         <module name="pay" />
+        <module name="payment" />
         <module name="provider" />
+        <module name="trade" />
+        <module name="utils" />
       </profile>
     </annotationProcessing>
   </component>

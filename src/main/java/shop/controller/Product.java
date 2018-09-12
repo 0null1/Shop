@@ -7,4 +7,5 @@ package shop.controller;
  * @Description:
  */
 public class Product {
+
 }
